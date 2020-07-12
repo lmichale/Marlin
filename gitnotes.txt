@@ -1,0 +1,5 @@
+
+#to force my "master" to be same as upstream
+fetch upstream
+reset --hard upstream/master
+push -f orign/master
